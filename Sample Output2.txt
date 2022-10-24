@@ -1,0 +1,6 @@
+A=NaCl
+B=BaCl2
+C=HCl
+D=FeCl2
+E=CuCl2
+

@@ -1,0 +1,12 @@
+A=Ca(OH)2
+B=CaCO3
+C=H2O
+D=H2
+E=H2SO4
+
+A=Ca(OH)2
+B=CaCO3
+C=H2O
+D=H2
+E=HCl
+

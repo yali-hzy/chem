@@ -1,0 +1,14 @@
+A=K2CO3
+C=CO2
+D=Ca(OH)2
+F=HCl
+B=KOH
+E=H2O
+
+A=Na2CO3
+C=CO2
+D=Ca(OH)2
+F=HCl
+B=NaOH
+E=H2O
+
